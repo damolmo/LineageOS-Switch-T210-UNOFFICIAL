@@ -1,4 +1,4 @@
-# Lineageos-17.1-T210-Switch-
+# LineageOS-17.1-T210-Switch-
 <img src="https://github.com/daviiid99/Lineageos-17.1-T210-Switch-/blob/main/qbuilds.png">
 Android 10.x builds for Nintendo Switch based on the open-source project LineageOS 17.x
 <br/>
@@ -43,7 +43,7 @@ NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="
   
 6.- Cuando te pregunte sobre iniciar TWRP, selecciona <b>Continue</b>
   
-7.- En TWRP, selecciona la opción <b> Flash </b>, después <b>Select Storage</b> y elige <b>externalsd</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> de la raíz.
+7.- En TWRP, selecciona la opción <b> Flash </b>, después <b>Select Storage</b> y elige <b>external_sd</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> de la raíz.
   
 8.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
