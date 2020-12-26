@@ -12,7 +12,7 @@ All the builds in this repository were compiled using the official <a href="http
   
 2.- Extract the <b>Hekate SD</b> file into your SD root and copy the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file in the root as well.
   
-3.- Launch Hekate on your non-mariko Switch and go to <b>Tools> Arch Bit/RCM/Touch/Partitions> Partition SD Card</b>
+3.- Launch Hekate on your non-mariko Switch and go to <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
   
 4.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>
   
@@ -33,7 +33,7 @@ NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="
   
 2.- Extrae el archivo <b>Hekate SD</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> también en la raíz.
   
-3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch Bit/RCM/Touch/Partitions> Partition SD Card</b>
+3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
   
 4.- Seleeciona la opción <b>Flash Android</b>, cuando finalize pulsa <b>Continue</b>
   
