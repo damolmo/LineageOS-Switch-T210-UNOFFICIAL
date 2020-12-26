@@ -14,7 +14,7 @@ All the builds in this repository were compiled using the official <a href="http
   
 3.- Launch Hekate on your non-mariko Switch and go to <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
-4.- Use the slider to give <b>Android></b> some space, then select <Next Step</b> to start the repartition process.
+4.- Use the slider to give <b>Android</b> some space, then select <b>Next Step</b> to start the repartition process.
   
 5.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>
   
@@ -37,7 +37,7 @@ NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="
   
 3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
-4.- Use el slider para <b>Android></b> espacio en su partición, y selecciona <Next Step</b> para reparticionar la SD.
+4.- Use el slider para <b>Android</b> espacio en su partición, y selecciona <b>Next Step</b> para reparticionar la SD.
   
 5.- Selecciona la opción <b>Flash Android</b>, cuando finalize pulsa <b>Continue</b>
   
