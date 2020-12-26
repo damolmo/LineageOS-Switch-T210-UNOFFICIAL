@@ -18,7 +18,7 @@ All the builds in this repository were compiled using the official <a href="http
   
 5.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>
   
-6.- Boot your Switch into TWRP by pressing VOL- on boot
+6.- When prompted to boot into TWRP, select <b>Continue</b>
   
 7.- Select the <b> Flash </b> option and select the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file from root directory
   
@@ -41,7 +41,7 @@ NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="
   
 5.- Selecciona la opción <b>Flash Android</b>, cuando finalize pulsa <b>Continue</b>
   
-6.- Inicia el recovery TWRP en tu Switch pulsando el botón VOL- en el arranque
+6.- Cuando te pregunte sobre iniciar TWRP, selecciona <b>Continue</b>
   
 7.- Selecciona la opción <b> Flash </b> y selecciona el archivo de la rom, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> de la raíz.
   
