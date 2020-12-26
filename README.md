@@ -20,7 +20,7 @@ All the builds in this repository were compiled using the official <a href="http
   
 6.- When prompted to boot into TWRP, select <b>Continue</b>
   
-7.- Select the <b> Flash </b>, then <b>Select Storage</b> and choose <b>external_sd</b> option and select the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file from root directory
+7.- Select the <b> Flash </b> option , then <b>Select Storage</b> and choose the <b>external_sd</b> option and select the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file from root directory
   
 8.- Wait for the flash process to end, then go back and select <b>Reboot> System</b>
  
