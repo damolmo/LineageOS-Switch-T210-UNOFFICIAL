@@ -7,7 +7,7 @@ All the builds in this repository were compiled using the official <a href="http
 
 # How to flash this ROM (English Instructions)
 
-1.- Grab the latest release from <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
+1.- Grab the latest update from <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
   (Download both files, the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> and the <b>Hekate SD.zip</b>)
   
 2.- Extract the <b>Hekate SD</b> file into your SD root and copy the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file in the root as well.
@@ -28,7 +28,7 @@ NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="
 
 # Cómo instalar esta ROM (Spanish Instructions)
 
-1.- Descarga la última release de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
+1.- Descarga la última axtualización de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
   (Descarga ambos archivos, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> y el <b>Hekate SD.zip</b>)
   
 2.- Extrae el archivo <b>Hekate SD</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> también en la raíz.
@@ -45,5 +45,5 @@ NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="
  
 8.- Tu Nintendo Switch iniciará LineageOS sin problemas.
  
-NOTA: Opcionalmente puedes instalar Magisk y un paquete de GApps desde TWRP, <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> and <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable</a></b> son las opciones recomendadas.
+NOTA: Opcionalmente puedes instalar Magisk y un paquete de GApps desde TWRP, <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> y <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable</a></b> son las opciones recomendadas.
   
