@@ -25,9 +25,8 @@ All the builds in this repository were compiled using the official <a href="http
 8.- Your Switch will boot into LineageOS 17.x system
  
 NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> and <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b> are the recommended options.
-  
-<br/>
 
+<br/>
 # Cómo instalar esta ROM (Spanish Instructions)
 
 1.- Descarga la última release de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
