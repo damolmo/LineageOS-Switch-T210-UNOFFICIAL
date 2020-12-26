@@ -2,7 +2,7 @@
 
 I'M NOT THE OWNER OF THIS PROJECT AND ALL THE WORK BEHIND THIS ROM IS THANKS TO THE SWITCHROOT ORGANIZATION.
 
-THESE BUILDS ARE PUBLISHED WITHOUT ANY GUARANTEE OR SUPPORT, ARE JUST PERSONAL BUILD COMPILED BY ME THANKS TO THE SOURCE CODE AVAILABLE AT <b><a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">SWITCHROOT GITLAB REPOSITORY</b></a>
+THESE BUILDS ARE PUBLISHED WITHOUT ANY GUARANTEE OR SUPPORT, ARE JUST PERSONAL BUILDS COMPILED BY ME THANKS TO THE SOURCE CODE AVAILABLE AT <b><a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">SWITCHROOT GITLAB REPOSITORY</b></a>
 <br/>
 <br/>
 
@@ -37,7 +37,7 @@ All the builds in this repository were compiled using the official <a href="http
  
 NOTE¹: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> and <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b> are the recommended options.
 
-NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps packages
+NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package
 
 # Cómo instalar esta ROM (Spanish Instructions)
 
