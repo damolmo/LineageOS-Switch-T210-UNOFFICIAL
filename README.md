@@ -22,7 +22,7 @@ All the builds in this repository were compiled using the official <a href="http
   
 7.- In TWRP, select the <b> Flash </b> option , then <b>Select Storage</b> and choose the <b>external_sd</b> option and select the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file from root directory
   
-8.- Wait for the flash process to end, then go back and select <b>Reboot> System</b>
+8.- Wait for the flash process to end, then return and select <b>Reboot> System</b>
  
 9.- Your Switch will boot into LineageOS 17.x system
  
@@ -33,7 +33,7 @@ NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="
 1.- Descarga la última actualización de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
   (Descarga ambos archivos, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> y el <b>Hekate SD.zip</b>)
   
-2.- Extrae el archivo <b>Hekate SD</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> también en la raíz.
+2.- Extrae el archivo <b>Hekate SD.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> también en la raíz.
   
 3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
