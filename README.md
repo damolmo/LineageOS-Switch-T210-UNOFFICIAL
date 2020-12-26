@@ -13,16 +13,18 @@ All the builds in this repository were compiled using the official <a href="http
 2.- Extract the <b>Hekate SD</b> file into your SD root and copy the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file in the root as well.
   
 3.- Launch Hekate on your non-mariko Switch and go to <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
+
+4.- Use the slider to give <b>Android></b> some space, then select <Next Step</b> to start the repartition process.
   
-4.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>
+5.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>
   
-5.- Boot your Switch into TWRP by pressing VOL- on boot
+6.- Boot your Switch into TWRP by pressing VOL- on boot
   
-6.- Select the <b> Flash </b> option and select the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file from root directory
+7.- Select the <b> Flash </b> option and select the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file from root directory
   
-7.- Wait for the flash process to end, then go back and select <b>Reboot> System</b>
+8.- Wait for the flash process to end, then go back and select <b>Reboot> System</b>
  
-8.- Your Switch will boot into LineageOS 17.x system
+9.- Your Switch will boot into LineageOS 17.x system
  
 NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> and <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b> are the recommended options.
 
@@ -34,14 +36,16 @@ NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="
 2.- Extrae el archivo <b>Hekate SD</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> también en la raíz.
   
 3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
+
+4.- Use el slider para <b>Android></b> espacio en su partición, y selecciona <Next Step</b> para reparticionar la SD.
   
-4.- Seleeciona la opción <b>Flash Android</b>, cuando finalize pulsa <b>Continue</b>
+5.- Selecciona la opción <b>Flash Android</b>, cuando finalize pulsa <b>Continue</b>
   
-5.- Inicia el recovery TWRP en tu Switch pulsando el botón VOL- en el arranque
+6.- Inicia el recovery TWRP en tu Switch pulsando el botón VOL- en el arranque
   
-6.- Selecciona la opción <b> Flash </b> y selecciona el archivo de la rom, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> de la raíz.
+7.- Selecciona la opción <b> Flash </b> y selecciona el archivo de la rom, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> de la raíz.
   
-7.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
+8.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
 8.- Tu Nintendo Switch iniciará LineageOS sin problemas.
  
