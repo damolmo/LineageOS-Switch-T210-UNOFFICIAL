@@ -10,7 +10,7 @@ All the builds in this repository were compiled using the official <a href="http
 1.- Grab the latest update from <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
   (Download both files, the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> and the <b>Hekate SD.zip</b>)
   
-2.- Extract the <b>Hekate SD</b> file into your SD root and copy the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file in the root as well.
+2.- Extract the <b>Hekate SD.zip</b> contents into your SD Card root and copy the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file in the root as well.
   
 3.- Launch Hekate on your non-mariko Switch and go to <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
@@ -20,7 +20,7 @@ All the builds in this repository were compiled using the official <a href="http
   
 6.- When prompted to boot into TWRP, select <b>Continue</b>
   
-7.- Select the <b> Flash </b> option , then <b>Select Storage</b> and choose the <b>external_sd</b> option and select the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file from root directory
+7.- In TWRP, select the <b> Flash </b> option , then <b>Select Storage</b> and choose the <b>external_sd</b> option and select the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file from root directory
   
 8.- Wait for the flash process to end, then go back and select <b>Reboot> System</b>
  
@@ -43,7 +43,7 @@ NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="
   
 6.- Cuando te pregunte sobre iniciar TWRP, selecciona <b>Continue</b>
   
-7.- Selecciona la opción <b> Flash </b>, después <b>Select Storage</b> y elige <b>externalsd</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> de la raíz.
+7.- En TWRP, selecciona la opción <b> Flash </b>, después <b>Select Storage</b> y elige <b>externalsd</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> de la raíz.
   
 8.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
