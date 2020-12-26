@@ -1,3 +1,12 @@
+<b>NOTE:</b>
+
+I'M NOT THE OWNER OF THIS PROJECT AND ALL THE WORK BEHIND THIS ROOM IS THANKS TO THE SWITCHROOT ORGANIZATION.
+THESE BUILDS ARE PUBLIC WITHOUT ANY GUARANTEED OR SUPPORT, ARE JUST PERSONAL BUILD COMPILED BY ME
+<img src="https://github.com/daviiid99/Lineageos-17.1-T210-Switch-/blob/main/qbuilds.png">
+Android 10.x builds for Nintendo Switch based on the open-source project LineageOS 17.x
+
+<br/>
+
 # LineageOS-17.1-Switch
 <img src="https://github.com/daviiid99/Lineageos-17.1-T210-Switch-/blob/main/qbuilds.png">
 Android 10.x builds for Nintendo Switch based on the open-source project LineageOS 17.x
