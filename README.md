@@ -30,14 +30,14 @@ NOTE: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="
 
 # Cómo instalar esta ROM (Spanish Instructions)
 
-1.- Descarga la última axtualización de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
+1.- Descarga la última actualización de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
   (Descarga ambos archivos, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> y el <b>Hekate SD.zip</b>)
   
 2.- Extrae el archivo <b>Hekate SD</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> también en la raíz.
   
 3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
-4.- Use el slider para <b>Android</b> espacio en su partición, y selecciona <b>Next Step</b> para reparticionar la SD.
+4.- Use el slider para dar a <b>Android</b> espacio en su partición, y selecciona <b>Next Step</b> para reparticionar la SD.
   
 5.- Selecciona la opción <b>Flash Android</b>, cuando finalize pulsa <b>Continue</b>
   
