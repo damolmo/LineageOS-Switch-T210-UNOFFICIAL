@@ -7,7 +7,7 @@ THESE BUILDS ARE PUBLIC WITHOUT ANY GUARANTEED OR SUPPORT, ARE JUST PERSONAL BUI
 Android 10.x builds for Nintendo Switch based on the open-source project LineageOS 17.x
 <br/>
 <br/>
-
+<br/>
 # LineageOS-17.1-Switch
 <img src="https://github.com/daviiid99/Lineageos-17.1-T210-Switch-/blob/main/qbuilds.png">
 Android 10.x builds for Nintendo Switch based on the open-source project LineageOS 17.x
