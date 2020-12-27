@@ -20,7 +20,7 @@ All the builds in this repository were compiled using the official <a href="http
 | ------------------- | -------------------------------------------|-------------------|
 | LineageOS 15.1      |  Download/Descargar|
 | LineageOS 16.0      |  Download/Descargar| Source|
-| LineageOS 17.1      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download/Descargar</a>|  | <a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">Source</a>|
+| LineageOS 17.1      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download/Descargar</a>|<a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">Source</a>|
 
 
 
