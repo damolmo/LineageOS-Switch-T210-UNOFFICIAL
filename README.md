@@ -7,7 +7,7 @@ THESE BUILDS ARE PUBLISHED WITHOUT ANY GUARANTEE OR SUPPORT, ARE JUST PERSONAL B
 <br/>
 
 
-# LineageOS-17.1-Switch
+# LineageOS-Switch
 <img src="https://github.com/daviiid99/Lineageos-17.1-T210-Switch-/blob/main/qbuilds.png">
 Android 8.x, 9.x and 10.x builds for Nintendo Switch based on the open-source project LineageOS
 <br/>
