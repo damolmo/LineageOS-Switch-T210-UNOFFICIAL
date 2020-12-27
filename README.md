@@ -9,10 +9,20 @@ THESE BUILDS ARE PUBLISHED WITHOUT ANY GUARANTEE OR SUPPORT, ARE JUST PERSONAL B
 
 # LineageOS-17.1-Switch
 <img src="https://github.com/daviiid99/Lineageos-17.1-T210-Switch-/blob/main/qbuilds.png">
-Android 10.x builds for Nintendo Switch based on the open-source project LineageOS 17.x
+Android 8.x, 9.x and 10.x builds for Nintendo Switch based on the open-source project LineageOS
 <br/>
 
 All the builds in this repository were compiled using the official <a href="https://github.com/LineageOS/android">LineageOS</a> and <a href="https://gitlab.com/switchroot/android">Switchroot</a> sources
+
+## Versiones soportadas
+
+| LineageOS           | Releases                                   |  
+| ------------------- | -------------------------------------------
+| LineageOS 15.1      |  Download/Descargar|
+| LineageOS 16.0      |  Download/Descargar
+| LineageOS 17.1      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download/Descargar</a>
+
+
 
 # How to flash this ROM (English Instructions)
 
