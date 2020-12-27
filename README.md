@@ -29,7 +29,7 @@ All the builds in this repository were compiled using the official <a href="http
 1.- Grab the latest update from <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
   (Download both files, the <b>lineage-[version]-[date]-icosa-daviiid99.zip</b> and the <b>Hekate SD.zip</b>)
   
-2.- Extract the <b>Hekate SD.zip</b> contents into your SD Card root and copy the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file in the root as well.
+2.- Extract the <b>Hekate SD.zip</b> contents into your SD Card root and copy the <b>lineage-[version]-[date]-icosa-daviiid99.zip</b> file in the root as well.
   
 3.- Launch Hekate on your non-mariko Switch and go to <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
