@@ -18,8 +18,8 @@ All the builds in this repository were compiled using the official <a href="http
 
 | LineageOS           | Releases                                   | Sources          |
 | ------------------- | -------------------------------------------|-------------------|
-| LineageOS 15.1      |  Download/Descargar| Source|
-| LineageOS 16.0      |  Download/Descargar| Source|
+| LineageOS 15.1      |  Abandonned| <a href="https://gitlab.com/switchroot/android/android_device_nvidia_foster/-/tree/lineage-15.1">Source</a>||
+| LineageOS 16.0      |  Abandonned| <a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-16.0">Source</a>|
 | LineageOS 17.1      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download/Descargar</a>|<a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">Source</a>|
 
 
@@ -64,7 +64,7 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package
   
 6.- Cuando te pregunte sobre iniciar TWRP, selecciona <b>Continue</b>
   
-7.- En TWRP, selecciona la opción <b> Flash </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-[17.1]-[date]-icosa-daviiid99.zip</b> de la raíz.
+7.- En TWRP, selecciona la opción <b> Flash </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-[17.1]-[fecha]-icosa-daviiid99.zip</b> de la raíz.
   
 8.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
