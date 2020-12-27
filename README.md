@@ -54,7 +54,7 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package
 1.- Descarga la última actualización de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
   (Descarga ambos archivos, el <b>lineage-[version]-[fecha]-icosa-daviiid99.zip</b> y el <b>Hekate SD.zip</b>)
   
-2.- Extrae el archivo <b>Hekate SD.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> también en la raíz.
+2.- Extrae el archivo <b>Hekate SD.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-[version]-[date]-icosa-daviiid99.zip</b> también en la raíz.
   
 3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
