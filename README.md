@@ -27,7 +27,7 @@ All the builds in this repository were compiled using the official <a href="http
 # How to flash this ROM (English Instructions)
 
 1.- Grab the latest update from <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
-  (Download both files, the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> and the <b>Hekate SD.zip</b>)
+  (Download both files, the <b>lineage-[version]-[date]-icosa-daviiid99.zip</b> and the <b>Hekate SD.zip</b>)
   
 2.- Extract the <b>Hekate SD.zip</b> contents into your SD Card root and copy the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file in the root as well.
   
@@ -39,11 +39,11 @@ All the builds in this repository were compiled using the official <a href="http
   
 6.- When prompted to boot into TWRP, select <b>Continue</b>
   
-7.- In TWRP, select the <b> Flash </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> file from root directory
+7.- In TWRP, select the <b> Flash </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-[version]-[date]-icosa-daviiid99.zip</b> file from root directory
   
 8.- Wait for the flash process to end, then return and select <b>Reboot> System</b>
  
-9.- Your Switch will boot into LineageOS 17.x system
+9.- Your Switch will boot into LineageOS system
  
 NOTE¹: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> and <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b> are the recommended options.
 
@@ -52,7 +52,7 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package
 # Cómo instalar esta ROM (Spanish Instructions)
 
 1.- Descarga la última actualización de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
-  (Descarga ambos archivos, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> y el <b>Hekate SD.zip</b>)
+  (Descarga ambos archivos, el <b>lineage-[version]-[fecha]-icosa-daviiid99.zip</b> y el <b>Hekate SD.zip</b>)
   
 2.- Extrae el archivo <b>Hekate SD.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> también en la raíz.
   
@@ -64,7 +64,7 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package
   
 6.- Cuando te pregunte sobre iniciar TWRP, selecciona <b>Continue</b>
   
-7.- En TWRP, selecciona la opción <b> Flash </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[date]-icosa-daviiid99.zip</b> de la raíz.
+7.- En TWRP, selecciona la opción <b> Flash </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-[version]-[date]-icosa-daviiid99.zip</b> de la raíz.
   
 8.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
