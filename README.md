@@ -57,7 +57,7 @@ All the builds in this repository were compiled using the official <a href="http
 ```Magisk:```
 <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b>
 ```
-NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
+NOTE: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
 ```
 
 # Cómo instalar esta ROM (Spanish Instructions)
@@ -93,5 +93,5 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
 ```Magisk:```
 <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable release</a></b>
 ```
-NOTA²: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 GApps.
+NOTA: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 GApps.
 ```
