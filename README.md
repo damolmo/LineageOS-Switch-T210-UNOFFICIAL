@@ -43,7 +43,7 @@ All the builds in this repository were compiled using the official <a href="http
 
 8.- Return to TWRP home menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file from root directory.
   
-9.- Wait for the flash process to end, then return and select <b>Reboot> System</b>.
+9.- Wait for the flash process to finish, then return and select <b>Reboot> System</b>.
  
 10.- Your Switch will boot into LineageOS system.
  
