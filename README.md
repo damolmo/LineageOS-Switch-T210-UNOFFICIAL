@@ -39,7 +39,7 @@ All the builds in this repository were compiled using the official <a href="http
   
 6.- When prompted to reboot into TWRP, select <b>Continue</b>.
   
-7.- In TWRP, select the <b>MOUNT</b> option and mount all partitions.
+7.- In TWRP, select the <b>MOUNT</b> option and mount all possible partitions.
 
 8.- Return to TWRP home menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file from root directory.
   
@@ -82,7 +82,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
   
 6.- Cuando te pregunte sobre iniciar TWRP, selecciona <b>Continue</b>
   
-7.- En TWRP, selecciona la opción <b>MOUNT</b> y monta todas las particiones.
+7.- En TWRP, selecciona la opción <b>MOUNT</b> y monta todas las particiones posibles.
 
 8.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> de la raíz.
   
