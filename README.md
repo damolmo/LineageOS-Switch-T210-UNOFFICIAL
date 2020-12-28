@@ -16,11 +16,11 @@ All the builds in this repository were compiled using the official <a href="http
 
 ## Versiones soportadas
 
-| LineageOS           | Releases                                   | Sources          |
+| Version           | Releases                                   | Sources          |
 | ------------------- | -------------------------------------------|-------------------|
-| LineageOS 15.1      |  Abandonned| <a href="https://gitlab.com/switchroot/android/android_device_nvidia_foster/-/tree/lineage-15.1">Source</a>||
-| LineageOS 16.0      |  Abandonned| <a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-16.0">Source</a>|
-| LineageOS 17.1      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download/Descargar</a>|<a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">Source</a>|
+| Vanilla      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download/Descargar</a>|<a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">Source</a>|
+| Vanilla + NVIDIA Apps|  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download/Descargar</a>|<a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">Source</a>|
+| Android TV + NVIDIA Apps      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download/Descargar</a>|<a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">Source</a>|
 
 
 
