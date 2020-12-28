@@ -51,10 +51,10 @@ All the builds in this repository were compiled using the official <a href="http
  
 (Extras): You can flash the following add-ons from TWRP 
 
-```GApps```
+```GApps:```
 <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> 
 
-```Magisk¹:```
+```Magisk:```
 <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b>
 ```
 NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
@@ -87,10 +87,10 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
  
 (Extras): Puedes instalar los siguientes paquetes desde TWRP
 
-```GApps```
+```GApps:```
 <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> 
 
-```Magisk¹:```
+```Magisk:```
 <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable release</a></b>
 ```
 NOTA²: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 GApps.
