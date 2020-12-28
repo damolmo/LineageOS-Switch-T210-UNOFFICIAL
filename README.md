@@ -46,11 +46,17 @@ All the builds in this repository were compiled using the official <a href="http
 9.- Wait for the flash process to finish, then return and select <b>Reboot> System</b>.
  
 10.- Your Switch will boot into LineageOS system.
+ <br/>
+ <br/>
  
 ```
-NOTE¹: Optionally you can flash Magisk and GApps from TWRP:
+NOTE¹: Optionally you can flash Magisk¹ and GApps¹ from TWRP:
 ``` 
-<b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> and <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b> are the recommended options.
+```GApps```
+<b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> 
+
+```Magisk¹:```
+<b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b>
 ```
 NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
 ```
@@ -77,11 +83,17 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
 9.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
 10.- Tu Nintendo Switch iniciará LineageOS sin problemas.
+ <br/>
+ <br/>
  
 ```
 NOTA¹: Opcionalmente puedes instalar Magisk y GApps desde TWRP:
-```
-<b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> y <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable</a></b> son las opciones recomendadas.
+``` 
+```GApps```
+<b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> 
+
+```Magisk¹:```
+<b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable release</a></b>
 ```
 NOTA²: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 al descargar un paquete de GApps.
 ```
