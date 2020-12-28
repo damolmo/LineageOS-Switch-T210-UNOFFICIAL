@@ -60,7 +60,7 @@ All the builds in this repository were compiled using the official <a href="http
 NOTE: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
 ```
 ```
-NOTE: Don´t flash Magisk or TWRP on first boot, reboot to TWRP later.
+NOTE: Don´t flash Magisk or GApps on first boot, reboot to TWRP later.
 ```
 ```
 NOTE: To boot into TWRP, launch the switchroot android payload from hekate and press VOL+
@@ -103,7 +103,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 NOTA: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 GApps.
 ```
 ```
-NOTA: No instales Magisk o TWRP en el primer inicio, bootea TWRP más tarde.
+NOTA: No instales Magisk o GApps en el primer inicio, bootea TWRP más tarde.
 ```
 ```
 NOTA: Para iniciar TWRP, lanza el paylod de switchroot android desde hekate y presiona VOL+.
