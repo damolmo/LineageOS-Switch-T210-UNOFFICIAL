@@ -39,7 +39,7 @@ All the builds in this repository were compiled using the official <a href="http
   
 6.- When prompted to boot into TWRP, select <b>Continue</b>
   
-7.- In TWRP, select the <b> Flash </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-[17.1]-[date]-[codename]-daviiid99.zip</b> file from root directory
+7.- In TWRP, select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-[17.1]-[date]-[codename]-daviiid99.zip</b> file from root directory
   
 8.- Wait for the flash process to end, then return and select <b>Reboot> System</b>
  
@@ -64,7 +64,7 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package
   
 6.- Cuando te pregunte sobre iniciar TWRP, selecciona <b>Continue</b>
   
-7.- En TWRP, selecciona la opción <b> Flash </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-[17.1]-[fecha]-[modelo]-daviiid99.zip</b> de la raíz.
+7.- En TWRP, selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-[17.1]-[fecha]-[modelo]-daviiid99.zip</b> de la raíz.
   
 8.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
