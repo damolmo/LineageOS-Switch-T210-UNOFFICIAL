@@ -48,8 +48,10 @@ All the builds in this repository were compiled using the official <a href="http
 10.- Your Switch will boot into LineageOS system.
  
 ```
-NOTE¹: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> and <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b> are the recommended options.
-
+NOTE¹: Optionally you can flash Magisk and GApps packages from TWRP,
+``` 
+<b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> and <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b> are the recommended options.
+```
 NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
 ```
 
@@ -77,7 +79,9 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
 10.- Tu Nintendo Switch iniciará LineageOS sin problemas.
  
 ```
-NOTA¹: Opcionalmente puedes instalar Magisk y un paquete de GApps desde TWRP, <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> y <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable</a></b> son las opciones recomendadas.
-
+NOTA¹: Opcionalmente puedes instalar Magisk y un paquete de GApps desde TWRP,
+```
+<b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> y <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable</a></b> son las opciones recomendadas.
+```
 NOTA²: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 al descargar un paquete de GApps.
 ```
