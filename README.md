@@ -49,7 +49,7 @@ All the builds in this repository were compiled using the official <a href="http
  <br/>
  <br/>
  
-Extras: 
+(Extras): You can flash the following add-ons from TWRP 
 
 ```GApps```
 <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> 
@@ -85,7 +85,7 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
  <br/>
  <br/>
  
-Extras:
+(Extras): Puedes instalar los siguientes paquetes desde TWRP
 
 ```GApps```
 <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> 
