@@ -1,8 +1,8 @@
 <p style="color:yellow"><b>NOTE:</b></p>
 
-I'M NOT THE OWNER OF THIS PROJECT AND ALL THE WORK BEHIND THIS ROM IS THANKS TO THE SWITCHROOT ORGANIZATION.
+_I'M NOT THE OWNER OF THIS PROJECT AND ALL THE WORK BEHIND THIS ROM IS THANKS TO THE SWITCHROOT ORGANIZATION._
 
-THESE BUILDS ARE PUBLISHED WITHOUT ANY GUARANTEE OR SUPPORT, ARE JUST PERSONAL BUILDS COMPILED BY ME THANKS TO THE SOURCE CODE AVAILABLE AT <b><a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">SWITCHROOT GITLAB REPOSITORY</b></a>
+_THESE BUILDS ARE PUBLISHED WITHOUT ANY GUARANTEE OR SUPPORT, ARE JUST PERSONAL BUILDS COMPILED BY ME THANKS TO THE SOURCE CODE AVAILABLE AT <b><a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">SWITCHROOT GITLAB REPOSITORY</b></a>_
 <br/>
 <br/>
 
@@ -106,5 +106,5 @@ NOTA: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 GApps.
 NOTA: No instales Magisk o GApps en el primer inicio, inicia TWRP más tarde.
 ```
 ```
-NOTA: Para iniciar TWRP, lanza el paylod de switchroot android desde hekate y presiona VOL+.
+NOTA: Para iniciar TWRP, lanza el payload de switchroot android desde hekate y presiona VOL+.
 ```
