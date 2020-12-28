@@ -35,19 +35,21 @@ All the builds in this repository were compiled using the official <a href="http
 
 4.- Use the slider to give <b>Android</b> some space, then select <b>Next Step</b> to start the repartition process.
   
-5.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>
+5.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>.
   
-6.- When prompted to boot into TWRP, select <b>Continue</b>
+6.- When prompted to boot into TWRP, select <b>Continue</b>.
   
-7.- In TWRP, select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file from root directory
+7.- In TWRP, select the <b>MOUNT</b> option and mount all partitions.
+
+8.- Return to TWRP home menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file from root directory.
   
-8.- Wait for the flash process to end, then return and select <b>Reboot> System</b>
+9.- Wait for the flash process to end, then return and select <b>Reboot> System</b>.
  
-9.- Your Switch will boot into LineageOS system
+10.- Your Switch will boot into LineageOS system.
  
 NOTE¹: Optionally you can flash Magisk and GApps packages from TWRP, <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> and <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b> are the recommended options.
 
-NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package
+NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
 
 # Cómo instalar esta ROM (Spanish Instructions)
 
@@ -64,11 +66,13 @@ NOTE²: Switch AArch is ARM64-v8a, choose ARM64 GApps package
   
 6.- Cuando te pregunte sobre iniciar TWRP, selecciona <b>Continue</b>
   
-7.- En TWRP, selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> de la raíz.
+7.- En TWRP, selecciona la opción <b>MOUNT</b> y monta todas las particiones.
+
+8.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> de la raíz.
   
-8.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
+9.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
-8.- Tu Nintendo Switch iniciará LineageOS sin problemas.
+10.- Tu Nintendo Switch iniciará LineageOS sin problemas.
  
 NOTA¹: Opcionalmente puedes instalar Magisk y un paquete de GApps desde TWRP, <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> y <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable</a></b> son las opciones recomendadas.
 
