@@ -95,5 +95,5 @@ NOTA¹: Opcionalmente puedes instalar Magisk y GApps desde TWRP:
 ```Magisk¹:```
 <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable release</a></b>
 ```
-NOTA²: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 al descargar un paquete de GApps.
+NOTA²: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 GApps.
 ```
