@@ -49,7 +49,7 @@ All the builds in this repository were compiled using the official <a href="http
  <br/>
  <br/>
  
-(Extras): You can flash the following add-ons from TWRP 
+<b>(Extras): You can flash the following add-ons from TWRP </b>
 
 ```GApps:```
 <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> 
@@ -88,7 +88,7 @@ NOTE: To boot into TWRP recovery, launch the switchroot android payload from hek
  <br/>
  <br/>
  
-(Extras): Puedes instalar los siguientes paquetes desde TWRP
+<b>(Extras): Puedes instalar los siguientes paquetes desde TWRP</b>
 
 ```GApps:```
 <b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> 
