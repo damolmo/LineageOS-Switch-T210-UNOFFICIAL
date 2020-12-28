@@ -37,7 +37,7 @@ All the builds in this repository were compiled using the official <a href="http
   
 5.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>.
   
-6.- When prompted to boot into TWRP, select <b>Continue</b>.
+6.- When prompted to reboot into TWRP, select <b>Continue</b>.
   
 7.- In TWRP, select the <b>MOUNT</b> option and mount all partitions.
 
