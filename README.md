@@ -71,7 +71,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 
 # Cómo instalar esta ROM (Spanish Instructions)
 
-```!!! Por favor, crea una única partición FAT32 en tu mucroSD desde GParted antes de empezar esta guía!!!```
+```!!! Por favor, crea una única partición FAT32 en tu microSD desde GParted antes de empezar esta guía!!!```
 
 1.- Descarga la última actualización de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
   (Descarga ambos archivos, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> y el <b>Hekate SD.zip</b>)
