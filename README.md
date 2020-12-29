@@ -37,7 +37,7 @@ All the builds in this repository were compiled using the official <a href="http
 
 4.- Use the slider to give <b>Android</b> some space, then select <b>Next Step</b> to start the repartition process.
 
-``` If hekate doesn't give you the option to backup the SD files, repeat step 1 with the result partition scheme to copy the files in the main partition```
+``` If hekate doesn't give you the change to backup the SD files, repeat step 1 with the result partition scheme to copy the files in the main partition```
   
 5.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>.
   
