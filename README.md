@@ -73,7 +73,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
   
 2.- Extract the <b>Hekate SD.zip</b> contents into your SD Card root and copy the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file in the root as well.
   
-3.- Launch Hekate on your non-mariko Switch and go to <b>Payloads> to launch Switchroot android payload
+3.- Launch Hekate on your non-mariko Switch and go to <b>Payloads</b> to launch Switchroot android payload
 
 4.- To boot into TWRP, press and hold Vol+ on boot.
 
@@ -137,7 +137,7 @@ NOTA: Para iniciar TWRP, lanza el payload de switchroot android desde hekate y p
   
 2.- Extrae el archivo <b>Hekate SD.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> también en la raíz.
   
-3.- Lanza Hekate en tu Switch y ve a <b>Payloads> para lanzar el payload de Switchroot android.
+3.- Lanza Hekate en tu Switch y ve a <b>Payloads</b> para lanzar el payload de Switchroot android.
 
 4.- Para iniciar TWRP, presiona y mantén Vol+ en el arranque.
 
