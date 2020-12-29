@@ -105,17 +105,19 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
   
 2.- Extract the <b>Hekate SD.zip</b> contents into your SD Card root and copy the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file in the root as well.
   
-3.- Launch Hekate on your non-mariko Switch and go to <b>Payloads</b> to launch Switchroot android payload
+3.- Launch Hekate on your non-mariko Switch and go to <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
-4.- To boot into TWRP, press and hold Vol+ on boot.
-
-5.- In TWRP, select the <b>MOUNT</b> option and mount all possible partitions.
-
-6.- Return to TWRP main menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file from root directory.
+4.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>.
   
-7.- Wait for the flash process to finish, then return and select <b>Reboot> System</b>.
+5.- When prompted to reboot into TWRP, select <b>Continue</b>.
+  
+6.- In TWRP, select the <b>MOUNT</b> option and mount all possible partitions.
+
+7.- Return to TWRP main menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file from root directory.
+  
+8.- Wait for the flash process to finish, then return and select <b>Reboot> System</b>.
  
-10.- Your Switch will boot into LineageOS system.
+9.- Your Switch will boot into LineageOS system.
  <br/>
  <br/>
 
@@ -169,16 +171,18 @@ NOTA: Para iniciar TWRP, lanza el payload de switchroot android desde hekate y p
   
 2.- Extrae el archivo <b>Hekate SD.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> también en la raíz.
   
-3.- Lanza Hekate en tu Switch y ve a <b>Payloads</b> para lanzar el payload de Switchroot android.
+3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
-4.- Para iniciar TWRP, presiona y mantén Vol+ en el arranque.
+4.- Selecciona la opción <b>Flash Android</b>, cuando finalize pulsa <b>Continue</b>
 
-5.- En TWRP, selecciona la opción <b>MOUNT</b> y monta todas las particiones posibles.
+5.- Cuando te pregunte sobre iniciar TWRP, selecciona <b>Continue</b>
 
-6.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> de la raíz.
+6.- En TWRP, selecciona la opción <b>MOUNT</b> y monta todas las particiones posibles.
+
+7.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> de la raíz.
   
-7.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
+8.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
-8.- Tu Nintendo Switch iniciará LineageOS sin problemas.
+9.- Tu Nintendo Switch iniciará LineageOS sin problemas.
  <br/>
  <br/>
