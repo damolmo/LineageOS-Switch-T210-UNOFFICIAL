@@ -6,6 +6,20 @@ _THESE BUILDS ARE PUBLISHED WITHOUT ANY GUARANTEE OR SUPPORT, ARE JUST PERSONAL 
 <br/>
 <br/>
 
+# Index/Contenidos
+<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#lineageos-switch">LineageOS</a></b>
+
+<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#versiones-soportadas">Supported versions/ Versiones soportadas</a></b>
+
+<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#how-to-flash-this-rom-english-instructions">How to flash this ROM (English)</a></b>
+
+<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#cómo-instalar-esta-rom-spanish-instructions">Cómo instalar esta ROM (Spanish)</a></b>
+
+<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#how-to-update-this-rom-english-instructions">How to update this ROM (English)</a></b>
+
+<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#cómo-actualizar-esta-rom-spanish-instructions">Cómo actualizar esta ROM (Spanish)</a></b>
+
+<br/>
 
 # LineageOS Switch
 <img src="https://github.com/daviiid99/Lineageos-17.1-T210-Switch-/blob/main/qbuilds.png">
