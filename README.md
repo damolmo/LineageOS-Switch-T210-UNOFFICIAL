@@ -60,11 +60,7 @@ All the builds in this repository were compiled using the official <a href="http
 <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b>
 ```
 NOTE: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
-```
-```
 NOTE: Don´t flash Magisk or GApps on first boot, reboot to TWRP later.
-```
-```
 NOTE: To boot into TWRP, launch the switchroot android payload from hekate and press VOL+.
 ```
 
@@ -105,10 +101,6 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 <b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable release</a></b>
 ```
 NOTA: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 GApps.
-```
-```
 NOTA: No instales Magisk o GApps en el primer inicio, inicia TWRP más tarde.
-```
-```
 NOTA: Para iniciar TWRP, lanza el payload de switchroot android desde hekate y presiona VOL+.
 ```
