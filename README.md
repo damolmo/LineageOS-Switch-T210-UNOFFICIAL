@@ -37,7 +37,7 @@ All the builds in this repository were compiled using the official <a href="http
 
 4.- Use the slider to give <b>Android</b> some space, then select <b>Next Step</b> to start the repartition process.
 
-``` If hekate doesn't give you the option to backup the SD files, repeat step 1 with the result partition scheme```
+``` If hekate doesn't give you the option to backup the SD files, repeat step 1 with the result partition scheme to copy the files in the main partition```
   
 5.- Select the <b>Flash Android</b> option, when finished presh <b>Continue</b>.
   
@@ -80,7 +80,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 
 4.- Use el slider para dar a <b>Android</b> espacio en su partición, y selecciona <b>Next Step</b> para reparticionar la SD.
 
-```Si en este paso hekate te borra los archivos de la SD sin hacer backup, reintroducela en el PC y copialos de nuevo```
+```Si en este paso hekate te borra los archivos de la SD sin hacer backup, reintroducela en el PC y copialos de nuevo en la partición principal```
   
 5.- Selecciona la opción <b>Flash Android</b>, cuando finalize pulsa <b>Continue</b>
   
