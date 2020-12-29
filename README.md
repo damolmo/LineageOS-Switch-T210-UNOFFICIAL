@@ -75,7 +75,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
   
 3.- Launch Hekate on your non-mariko Switch and go to <b>Payloads> to launch Switchroot android payload
 
-4.- To boot into TWRP, press Vol+ on boot.
+4.- To boot into TWRP, press and hold Vol+ on boot.
 
 5.- In TWRP, select the <b>MOUNT</b> option and mount all possible partitions.
 
@@ -139,7 +139,7 @@ NOTA: Para iniciar TWRP, lanza el payload de switchroot android desde hekate y p
   
 3.- Lanza Hekate en tu Switch y ve a <b>Payloads> para lanzar el payload de Switchroot android.
 
-4.- Para iniciar TWRP, presiona Vol+ en el arranque.
+4.- Para iniciar TWRP, presiona y mantén Vol+ en el arranque.
 
 5.- En TWRP, selecciona la opción <b>MOUNT</b> y monta todas las particiones posibles.
 
