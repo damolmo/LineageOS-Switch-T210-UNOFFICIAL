@@ -142,6 +142,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 6.- Cuando te pregunte sobre iniciar TWRP, selecciona <b>Continue</b>
   
 7.- En TWRP, selecciona la opción <b>MOUNT</b> y monta todas las particiones posibles.
+(Si no puedes montar particiones y tanto la partición /data como /cache fallan al ser montadas y muestran 0 de espacio, ve a WIPE, selecciona cada una de las particiones y seleccionas "Repair or Change File System con cada una de ellas y cambias el tipo a EXT2 para que recupere su espacio y a continuación le cambias el tipo a EXT4 para poder ser usada, una vez hecho esto, puedes seguir con el siguiente paso)
 
 8.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> de la raíz.
   
