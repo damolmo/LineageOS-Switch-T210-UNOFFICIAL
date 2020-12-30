@@ -52,7 +52,7 @@ All the builds in this repository were compiled using the official <a href="http
 | ------------------- | ------------------- | -------------------------------------------|-------------------|
 | 20201226      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download</a>| No release| No release|
 | 20201228      | No release|<a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201228">Download</a>|<a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201228.1">Download</a>|
-|      |  <a href=""></a>|<a href=""></a>|<a href=""></a>|
+| 20201231     |  <a href="">Download</a>|<a href="">Download</a>|<a href="">Download</a>|
 
 
 
