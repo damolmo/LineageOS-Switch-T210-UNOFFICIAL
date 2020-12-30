@@ -9,7 +9,7 @@ _THESE BUILDS ARE PUBLISHED WITHOUT ANY GUARANTEE OR SUPPORT, ARE JUST PERSONAL 
 # Index/Contenidos
 <b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#lineageos-switch">LineageOS</a></b>
 
-<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#versiones-soportadas">Supported versions/ Versiones soportadas</a></b>
+<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#Updates-History">Updates history/ Historial de actualizaciones</a></b>
 
 <b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#how-to-flash-this-rom-english-instructions">How to flash this ROM (English)</a></b>
 
@@ -46,13 +46,13 @@ All the builds in this repository were compiled using the official <a href="http
 #
 ```
 
-## Versiones soportadas
+## Updates History
 
-| Version           | Releases                                   | Sources          |
-| ------------------- | -------------------------------------------|-------------------|
-| Vanilla      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download/Descargar</a>|<a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">Source</a>|
-| Vanilla + NVIDIA Apps|   <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201228">Download/Descargar</a>|<a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">Source</a>|
-| Android TV + NVIDIA  Apps      | <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201228.1">Download/Descargar</a>|<a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">Source</a>|
+| Date   | LineageOS Vanilla   | LineageOS Vanilla + NVIDIA Apps                                   |androidTV + NVIDIA Apps         |
+| ------------------- | ------------------- | -------------------------------------------|-------------------|
+| 20201226      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download</a>| No release| No release|
+| 20201228      | No release|<a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201228">Download</a>|<a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201228.1">Download</a>|
+|      |  <a href=""></a>|<a href=""></a>|<a href=""></a>|
 
 
 
