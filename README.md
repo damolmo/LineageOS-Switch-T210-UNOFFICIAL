@@ -76,7 +76,8 @@ All the builds in this repository were compiled using the official <a href="http
 6.- When prompted to reboot into TWRP, select <b>Continue</b>.
   
 7.- In TWRP, select the <b>MOUNT</b> option and mount all possible partitions.
-_(If you can not mount partitions like /data and /cache, go back to TWRP main menu, select WIPE and change the filesystem of both partitions to EXT2 and EXT4 to recover partitions data)
+
+_(If you can not mount partitions like /data and /cache, go back to TWRP main menu, select WIPE and change the filesystem of both partitions to EXT2 and EXT4 to recover partitions data)_
 
 8.- Return to TWRP main menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file from root directory.
   
