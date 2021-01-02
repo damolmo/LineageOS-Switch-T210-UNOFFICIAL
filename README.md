@@ -50,11 +50,10 @@ All the builds in this repository were compiled using the official <a href="http
 
 | Date   | LineageOS   | LineageOS + NVIDIA                                   |androidTV + NVIDIA         |
 | ------------------- | ------------------- | -------------------------------------------|-------------------|
-| 20201226      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download</a>| No release| No release|
-| 20201228      | No release|<a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201228">Download</a>|<a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201228.1">Download</a>|
+| 20210102      | No release| No release| No release|
 | 20201231     |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201231.1">Download</a>|<a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201231.2">Download</a>| No release|
-
-
+| 20201228      | No release|<a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201228">Download</a>|<a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201228.1">Download</a>|
+| 20201226      |  <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20201226">Download</a>| No release| No release|
 
 # How to flash this ROM (English Instructions)
 
