@@ -30,7 +30,7 @@ All the builds in this repository were compiled using the official <a href="http
 
 ```
 #
-# Copyright (C) 2016-2020 The LineageOS Project
+# Copyright (C) 2016-2021 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
