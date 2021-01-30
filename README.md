@@ -127,7 +127,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
  <br/>
  <br/>
  
- # How to fix bluetooth keeps stopping (English Instructions)
+ # How to fix "Bluetooth keeps stopping" (English Instructions)
  (Fix from <a href="https://github.com/daviiid99/LineageOS-Switch-T210/issues/19">this issue</a>)
  
  1.-Boot Atmosphere OS (emuNAND/sysNAND) and pair a new joy-con (this will write bluetooth MAC)
