@@ -1,7 +1,7 @@
 <b>UPDATE:</b>
 
 _SWITCHROOT Official builds are available now at <b><a href="https://forum.xda-developers.com/t/rom-unofficial-switchroot-android-10.4229761/">XDA-Developers Switch Forum</b></a>_
-_You can use the official builds or my unofficial builds.
+<br/>_You can use the official builds or my unofficial builds.
 I'll continue to build my own builds for personal use_
 <br/>
 <br/>
