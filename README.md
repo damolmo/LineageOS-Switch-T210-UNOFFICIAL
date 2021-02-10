@@ -57,6 +57,7 @@ All the builds in this repository were compiled using the official <a href="http
 
 | Date   | LineageOS   | LineageOS + NVIDIA                                   |androidTV + NVIDIA         |
 | ------------------- | ------------------- | -------------------------------------------|-------------------|
+| 20210202| No release| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210209.1">Download</a> | <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210209.2">Download</a>|
 | 20210202| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210202.1">Download</a>| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210202.2">Download</a> | <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210202.3">Download</a>|
 | 20210130| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210130.1">Download</a>| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210130.2">Download</a> | <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210130.3">Download</a>|
 | 20210126| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210126.1">Download</a>| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210126.2">Download</a> | <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210126.3">Download</a>|
