@@ -3,9 +3,9 @@
 # Index/Contenidos
 <b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#lineageos-switch">LineageOS</a></b>
 
-<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#LineageOS-18.1-Builds">LineageOS 18.1 Builds</a></b>
+<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210-UNOFFICIAL#lineageos-181-builds">LineageOS 18.1 Builds</a></b>
 
-<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#LineageOS-17.1-Builds">LineageOS 17.1 Builds</a></b>
+<b><a href="https://github.com/daviiid99/LineageOS-Switch-T210-UNOFFICIAL#lineageos-171-builds">LineageOS 17.1 Builds</a></b>
 
 
 <b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#how-to-flash-this-rom-english-instructions">How to flash this ROM (English)</a></b>
