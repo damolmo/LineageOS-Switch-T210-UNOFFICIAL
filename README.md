@@ -70,8 +70,8 @@ All the builds in this repository were compiled using the official <a href="http
 
 # How to flash this ROM (English Instructions)
 
-1.- Grab the latest update from <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
-  (Download both files, the <b>lineage-17.1-[date]-[codename]/Switch_*-daviiid99.zip</b> and the <b>Hekate SD/Switch_*.zip</b>)
+1.- Grab the latest update from <a href="https://github.com/daviiid99/Lineageos-1x.1-T210-Switch/releases">Releases</a>
+  (Download both files, the <b>lineage-1x.1-[date]-[codename]/Switch_*-daviiid99.zip</b> and the <b>Hekate SD/Switch_*.zip</b>)
   
 2.- Extract the <b>Hekate SD/Switch_*.zip</b> contents into your SD Card root and copy the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> file in the root as well.
   
@@ -89,7 +89,7 @@ All the builds in this repository were compiled using the official <a href="http
 
 _(If you can not mount partitions like /data and /cache, go back to TWRP main menu, select WIPE and change the filesystem of both partitions to EXT2 and EXT4 to recover partitions data)_
 
-8.- Return to TWRP main menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> file from root directory.
+8.- Return to TWRP main menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-1x.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> file from root directory.
   
 9.- Wait for the flash process to finish, then return and select <b>Reboot> System</b>.
  
@@ -113,9 +113,9 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 # How to update this ROM (English Instructions)
 
 1.- Grab the latest update from <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
-  (Download both files, the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> and the <b>Hekate SD/Switch_*.zip</b>)
+  (Download both files, the <b>lineage-1x.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> and the <b>Hekate SD/Switch_*.zip</b>)
   
-2.- Extract the <b>Hekate SD/Switch_*.zip</b> contents into your SD Card root and copy the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> file in the root as well.
+2.- Extract the <b>Hekate SD/Switch_*.zip</b> contents into your SD Card root and copy the <b>lineage-1x.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> file in the root as well.
   
 3.- Launch Hekate on your non-mariko Switch and go to <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
@@ -127,7 +127,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 
 (OPTIONAL) WIPE the /system partition to prevent issues with the new update
 
-7.- Return to TWRP main menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> file from root directory.
+7.- Return to TWRP main menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-1x.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> file from root directory.
   
 8.- Wait for the flash process to finish, then return and select <b>Reboot> System</b>.
  
@@ -147,9 +147,9 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 # Cómo instalar esta ROM (Spanish Instructions)
 
 1.- Descarga la última actualización de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
-  (Descarga ambos archivos, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> y el <b>Hekate SD/Switch_*.zip</b>)
+  (Descarga ambos archivos, el <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> y el <b>Hekate SD/Switch_*.zip</b>)
   
-2.- Extrae el archivo <b>Hekate SD/Switch_*.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> también en la raíz.
+2.- Extrae el archivo <b>Hekate SD/Switch_*.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> también en la raíz.
   
 3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
@@ -165,7 +165,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 
 _(Si no puedes montar particiones y tanto la partición /data como /cache fallan al ser montadas y muestran 0 de espacio, ve a WIPE, selecciona cada una de las particiones y seleccionas "Repair or Change File System con cada una de ellas y cambias el tipo a EXT2 para que recupere su espacio y a continuación le cambias el tipo a EXT4 para poder ser usada, una vez hecho esto, puedes seguir con el siguiente paso)_
 
-8.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> de la raíz.
+8.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> de la raíz.
   
 9.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
@@ -189,9 +189,9 @@ NOTA: Para iniciar TWRP, lanza el payload de switchroot android desde hekate y p
 # Cómo actualizar esta ROM (Spanish Instructions)
 
 1.- Descarga la última actualización de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
-  (Descarga ambos archivos, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> y el <b>Hekate SD/Switch_*.zip</b>)
+  (Descarga ambos archivos, el <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> y el <b>Hekate SD/Switch_*.zip</b>)
   
-2.- Extrae el archivo <b>Hekate SD/Switch_*.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> también en la raíz.
+2.- Extrae el archivo <b>Hekate SD/Switch_*.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> también en la raíz.
   
 3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
@@ -203,7 +203,7 @@ NOTA: Para iniciar TWRP, lanza el payload de switchroot android desde hekate y p
 
 (Opcional) Selecciona en el menú principal la opción "WIPE" y limpia el /system para evitar conflictos entre actualizaciones)
 
-7.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-17.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> de la raíz.
+7.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> de la raíz.
   
 8.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
