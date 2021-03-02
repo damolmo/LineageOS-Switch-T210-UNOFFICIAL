@@ -1,17 +1,4 @@
-<b>UPDATE:</b>
 
-_SWITCHROOT Official builds are available now at <b><a href="https://forum.xda-developers.com/t/rom-unofficial-switchroot-android-10.4229761/">XDA-Developers Switch Forum</b></a>_
-<br/>_You can use the official builds or my unofficial builds.
-I'll continue to build my own builds for personal use_
-<br/>
-<br/>
-
-<b>NOTE:</b>
-
-_I'M NOT THE OWNER OF THIS PROJECT AND ALL THE WORK BEHIND THIS ROM IS THANKS TO THE SWITCHROOT ORGANIZATION._
-<br/>_THESE BUILDS ARE PUBLISHED WITHOUT ANY GUARANTEE OR SUPPORT, ARE JUST PERSONAL BUILDS COMPILED BY ME THANKS TO THE SOURCE CODE AVAILABLE AT <b><a href="https://gitlab.com/switchroot/android/android_device_nvidia_t210-common/-/tree/lineage-17.1">SWITCHROOT GITLAB REPOSITORY</b></a>_
-<br/>
-<br/>
 
 # Index/Contenidos
 <b><a href="https://github.com/daviiid99/LineageOS-Switch-T210#lineageos-switch">LineageOS</a></b>
