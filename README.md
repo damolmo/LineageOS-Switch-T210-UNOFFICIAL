@@ -1,3 +1,4 @@
+<b>Switchroot Android R (or LineageOS 18.1) is in an alpha state of testing. Because of this, there can be many unaddressed issues. This is not officially handled by switchroot, or is being released soon</b>
 
 
 # Index/Contenidos
