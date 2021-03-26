@@ -44,6 +44,7 @@ All the builds in this repository were compiled using the official <a href="http
 
 | Date   | LineageOS + NVIDIA                                   |androidTV + NVIDIA         |
 | ------------------- | -------------------------------------------|-------------------|
+| 20210326| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210326">Download</a> | |
 | 20210310| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210310.1">Download</a> | <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210310.2">Download</a>|
 | 20210302| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210302.1">Download</a> | <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210302.2">Download</a>|
 <br/>
