@@ -17,8 +17,8 @@
 Android 11.x / Android 10.x builds for Nintendo Switch based on the open-source project LineageOS
 <br/>
 
-All the builds in this repository were compiled using the official <a href="https://github.com/LineageOS/android">LineageOS</a> and <a href="https://gitlab.com/switchroot/android">Switchroot</a> sources
-
+All the builds in this repository are built using the official <a href="https://github.com/LineageOS/android">LineageOS</a> and <a href="https://gitlab.com/switchroot/android">Switchroot</a> sources
+*Except the unofficial LineageOS 18.1 builds
 ```
 #
 # Copyright (C) 2016-2021 The LineageOS Project
