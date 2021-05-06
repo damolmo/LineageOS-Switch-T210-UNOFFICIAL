@@ -1,3 +1,6 @@
+# DISCLAIMER
+<b> These builds are unofficial and simply build the latest GitHub release. They should ONLY be used for testing purposes, not as your daily driver. Expect a lot of bugs on these, as they are generally untested. You can download official releases of Switchroot LineageOS Android at https://download.switchroot.org/android-10/
+
 # Index/Contenidos
 <b><a href="https://github.com/daviiid99/LineageOS-Switch-T210-UNOFFICIAL#lineageos-switch">LineageOS</a></b>
 
