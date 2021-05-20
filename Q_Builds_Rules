@@ -1,0 +1,33 @@
+# Sync LineageOS repo
+repo init -u https://github.com/LineageOS/android.git -b lineage-17.1
+repo sync
+
+#Sync Switchroot repos
+git clone https://gitlab.com/switchroot/android/manifest.git -b lineage-17.1 .repo/local_manifests
+repo sync
+source build/envsetup.sh
+
+#Apply patches to repos
+repopick -t icosa-bt-lineage-17.1
+repopick -t nvidia-shieldtech-q
+repopick -t nvidia-beyonder-q
+repopick 305978
+
+patch -d device/nvidia/foster_tab -p1 <  .repo/local_manifests/patches/device_nvidia_foster_tab-beyonder.patch
+patch -d bionic -p1 < .repo/local_manifests/patches/bionic-intrinsics.patch
+patch -d frameworks/base -p1 < .repo/local_manifests/patches/frameworks_base-rsmouse-timeout.patch
+patch -d frameworks/native -p1 < .repo/local_manifests/patches/frameworks_native-joycon-filter.patch
+patch -d system/core -p1 < .repo/local_manifests/patches/system_core-gatekeeper-hack.patch
+patch -d frameworks/base -p1 < .repo/local_manifests/patches/frameworks_base-beyonder-hack.patch
+patch -d hardware/nvidia/inputhook -p1 < .repo/local_manifests/patches/hardware_nvidia_inputhook-timeout.patch
+patch -d device/lineage/atv -p1 < .repo/local_manifests/patches/device_lineage_atv-res.patch
+
+git apply --directory=vendor/nvidia < .repo/local_manifests/patches/vendor_nvidia-bt-fw.patch
+git apply --directory=vendor/firmware < .repo/local_manifests/patches/vendor_firmware-cb-update.patch
+git apply --directory=vendor/firmware < .repo/local_manifests/patches/vendor_firmware-TEMP-alarmdis.patch
+
+#Make builds
+lunch lineage_icosa-userdebug
+lunch lineage_foster-userdebug
+lunch lineage_foster_tab-userdebug
+make bacon
