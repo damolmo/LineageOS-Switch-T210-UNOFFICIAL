@@ -18,7 +18,7 @@ Android 11.x / Android 10.x builds for Nintendo Switch based on the open-source 
 <br/>
 
 All the builds in this repository are built using the official <a href="https://github.com/LineageOS/android">LineageOS</a> and <a href="https://gitlab.com/switchroot/android">Switchroot</a> sources
-*Except the unofficial LineageOS 18.1 builds
+
 ```
 #
 # Copyright (C) 2016-2021 The LineageOS Project
@@ -40,6 +40,7 @@ All the builds in this repository are built using the official <a href="https://
 
 | Date   | LineageOS + NVIDIA                                   |androidTV + NVIDIA         |
 | ------------------- | -------------------------------------------|-------------------|
+| 20210619| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210618.1">Download</a> |<a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210618.2">Download</a> |
 | 20210326| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210326">Download</a> | |
 | 20210310| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210310.1">Download</a> | <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210310.2">Download</a>|
 | 20210302| <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210302.1">Download</a> | <a href="https://github.com/daviiid99/LineageOS-Switch-T210/releases/tag/20210302.2">Download</a>|
@@ -71,10 +72,10 @@ All the builds in this repository are built using the official <a href="https://
 
 # How to flash this ROM (English Instructions)
 
-1.- Grab the latest update from <a href="https://github.com/daviiid99/Lineageos-1x.1-T210-Switch/releases">Releases</a>
-  (Download both files, the <b>lineage-1x.1-[date]-[codename]/Switch_*-daviiid99.zip</b> and the <b>Hekate SD/Switch_*.zip</b>)
+1.- Grab the latest update from <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
+  (Download both files, the <b>lineage-1x.1-[date]-[codename]-daviiid99.zip</b> and the <b>Hekate SD.zip</b>)
   
-2.- Extract the <b>Hekate SD/Switch_*.zip</b> contents into your SD Card root and copy the <b>lineage-17.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> file in the root as well.
+2.- Extract the <b>Hekate SD.zip</b> contents into your SD Card root and copy the <b>lineage-1x.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file in the root as well.
   
 3.- Launch Hekate on your non-mariko Switch and go to <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
@@ -88,7 +89,7 @@ All the builds in this repository are built using the official <a href="https://
   
 7.- In TWRP, select the <b>MOUNT</b> option and mount all possible partitions.
 
-8.- Return to TWRP main menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-1x.1-[date]-UNOFFICIAL-[codename]/Switch_*-daviiid99.zip</b> file from root directory.
+8.- Return to TWRP main menu and select the <b> Install </b> option , then <b>Select Storage</b> and choose the <b>Micro SD card</b> option and select the <b>lineage-1x.1-[date]-UNOFFICIAL-[codename]-daviiid99.zip</b> file from root directory.
   
 9.- Wait for the flash process to finish, then return and select <b>Reboot> System</b>.
  
@@ -99,13 +100,11 @@ All the builds in this repository are built using the official <a href="https://
 <b>(Extras): You can flash the following add-ons from TWRP </b>
 
 ```GApps:```
-<b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> 
+<b><a href="https://sourceforge.net/projects/opengapps/files/arm64/test/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases">NikGApps</a> </b> 
 
-```Magisk:```
-<b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Stable release</a></b>
 ```
 NOTE: Switch AArch is ARM64-v8a, choose ARM64 GApps package.
-NOTE: Don´t flash Magisk or GApps on first boot, reboot to TWRP later.
+NOTE: Don´t flash GApps on first boot, reboot to TWRP later.
 NOTE: To boot into TWRP, launch the switchroot android payload from hekate and press VOL+.
 ```
  
@@ -121,9 +120,9 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 # Cómo instalar esta ROM (Spanish Instructions)
 
 1.- Descarga la última actualización de <a href="https://github.com/daviiid99/Lineageos-17.1-T210-Switch/releases">Releases</a>
-  (Descarga ambos archivos, el <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> y el <b>Hekate SD/Switch_*.zip</b>)
+  (Descarga ambos archivos, el <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> y el <b>Hekate SD.zip</b>)
   
-2.- Extrae el archivo <b>Hekate SD/Switch_*.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> también en la raíz.
+2.- Extrae el archivo <b>Hekate SD.zip</b> en la raíz de tu SD y copia el archivo <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> también en la raíz.
   
 3.- Ejecuta Hekate en tu Switch(no Mariko) y selecciona las opciones siguientes <b>Tools> Arch bit • RCM • Touch • Partitions> Partition SD Card</b>
 
@@ -137,7 +136,7 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
   
 7.- En TWRP, selecciona la opción <b>MOUNT</b> y monta todas las particiones posibles.
 
-8.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]/Switch_*-daviiid99.zip</b> de la raíz.
+8.- Retrocede al menú principal de TWRP y selecciona la opción <b> Install </b>, después <b>Select Storage</b> y elige <b>Micro SD card</b> y selecciona el archivo de la rom, el <b>lineage-1x.1-[fecha]-UNOFFICIAL-[modelo]-daviiid99.zip</b> de la raíz.
   
 9.- Espera a que termine de instalarse la ROM, cuando finalice retrocede al menú principal y selecciona <b>Reboot> System</b>
  
@@ -148,13 +147,10 @@ NOTE: To boot into TWRP, launch the switchroot android payload from hekate and p
 <b>(Extras): Puedes instalar los siguientes paquetes desde TWRP</b>
 
 ```GApps:```
-<b><a href="https://opengapps.org/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-Q/">NikGApps</a> </b> 
-
-```Magisk:```
-<b><a href="https://github.com/topjohnwu/Magisk/releases">Magisk Estable release</a></b>
+<b><a href="https://sourceforge.net/projects/opengapps/files/arm64/test/">OpenGApps</a>/<a href="https://sourceforge.net/projects/nikgapps/files/Releases">NikGApps</a> </b> 
 ```
 NOTA: La arquitectura de Switch es ARM64-v8a, selecciona ARM64 GApps.
-NOTA: No instales Magisk o GApps en el primer inicio, inicia TWRP más tarde.
+NOTA: No instales GApps en el primer inicio, inicia TWRP más tarde.
 NOTA: Para iniciar TWRP, lanza el payload de switchroot android desde hekate y presiona VOL+.
 ```
 
